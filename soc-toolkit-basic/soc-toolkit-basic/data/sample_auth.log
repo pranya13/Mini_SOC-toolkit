@@ -1,0 +1,8 @@
+Jan 10 10:01:01 host sshd[111]: Failed password for root from 192.168.1.10 port 54321 ssh2
+Jan 10 10:01:10 host sshd[111]: Failed password for root from 192.168.1.10 port 54322 ssh2
+Jan 10 10:01:20 host sshd[111]: Failed password for root from 192.168.1.10 port 54323 ssh2
+Jan 10 10:01:30 host sshd[111]: Failed password for root from 192.168.1.10 port 54324 ssh2
+Jan 10 10:01:40 host sshd[111]: Failed password for root from 192.168.1.10 port 54325 ssh2
+Jan 10 10:02:40 host sshd[222]: Accepted password for root from 192.168.1.20 port 55555 ssh2
+Jan 10 10:03:00 host sudo:   user1 : 3 incorrect password attempts ; TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/bin/bash
+Jan 10 10:03:20 host sudo:   user1 : TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/bin/bash
