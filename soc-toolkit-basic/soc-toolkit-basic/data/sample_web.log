@@ -1,4 +1,0 @@
-192.168.1.30 - - [10/Jan/2025:11:10:01 +0000] "GET /index.php HTTP/1.1" 200 512 "-" "Mozilla/5.0"
-192.168.1.30 - - [10/Jan/2025:11:10:05 +0000] "GET /login.php?user=admin&pass=test HTTP/1.1" 200 512 "-" "Mozilla/5.0"
-203.0.113.5 - - [10/Jan/2025:11:11:10 +0000] "GET /login.php?user=admin'%20OR%201=1-- HTTP/1.1" 200 512 "-" "Mozilla/5.0"
-203.0.113.5 - - [10/Jan/2025:11:11:20 +0000] "GET /search.php?q=test HTTP/1.1" 200 512 "-" "Mozilla/5.0"
